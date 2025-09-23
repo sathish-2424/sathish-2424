@@ -24,7 +24,7 @@ Aspiring Data Analyst | EDA | Machine Learning Enthusiast
 ### 📌 Pinned Projects
 
 - 📰 [Fake News Detector](https://github.com/sathish-2424/Fake_News_Detector)
-- 🌐 [Naukri Data Scraper](https://github.com/sathish-2424/Naukri-data-analyst-scraper)
+- 🌐 [Sales Dashboard](https://github.com/sathish-2424/Sales_dashboard)
 - 📉 [Telco Customer Churn](https://github.com/sathish-2424/Telco_Customer_Churn)
 - 🤖 [Friend AI UI](https://github.com/sathish-2424/friend_ai)
 
