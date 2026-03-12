@@ -5,7 +5,7 @@ Aspiring Data Analyst | EDA | Machine Learning Enthusiast
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌟 Final Year Student | Passionate about data & automation
-- 📊 Working on [Bitcoin Price Forecasting](https://github.com/sathish-2424/bitcoin-price-forecasting) & [Customer Churn](https://github.com/sathish-2424/Customer-Churn-Prediction)
+- 📊 Working on [Bitcoin Price Forecasting](https://github.com/sathish-2424/bitcoin-price-forecasting)
 - 📈 Love visualizing data to tell meaningful stories
 - 🚀 Exploring Machine Learning, Power BI & Streamlit for data apps
 - ✨ Constantly learning and building real-world projects
