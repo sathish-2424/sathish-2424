@@ -1,11 +1,12 @@
 <div align="center">
 
 ```
-███████  █████  ████████ ██   ██ ██ ███████ ██   ██
-██      ██   ██    ██    ██   ██ ██ ██      ██   ██
-███████ ███████    ██    ███████ ██ ███████ ███████
-     ██ ██   ██    ██    ██   ██ ██      ██ ██   ██
-███████ ██   ██    ██    ██   ██ ██ ███████ ██   ██
+ ███████╗ █████╗ ████████╗██╗  ██╗██╗███████╗██╗  ██╗
+ ██╔════╝██╔══██╗╚══██╔══╝██║  ██║██║██╔════╝██║  ██║
+ ███████╗███████║   ██║   ███████║██║███████╗███████║
+ ╚════██║██╔══██║   ██║   ██╔══██║██║╚════██║██╔══██║
+ ███████║██║  ██║   ██║   ██║  ██║██║███████║██║  ██║
+ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
 ### Data Analyst · Dashboard Builder · ML Enthusiast
@@ -22,10 +23,12 @@
 
 I'm **Sathish Kumar**, a final-year student obsessed with making data speak. Whether it's forecasting Bitcoin prices or uncovering what drives customer churn, I love diving deep into datasets and building dashboards that tell a story at a glance.
 
-- 🎓 Final Year Student — passionate about analytics & automation
+- 🎓 Final-year student — passionate about analytics & automation
 - 🔍 Specialties: EDA, Churn Analysis, Healthcare Analytics, Sales Intelligence
 - 🛠️ Tools of choice: Power BI, Tableau, SQL, Python, Streamlit
 - 🤝 Open to internships and data collaborations
+
+<br clear="right"/>
 
 ---
 
